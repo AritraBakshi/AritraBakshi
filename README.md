@@ -44,9 +44,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aritrabakshi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aritrabakshi&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aritrabakshi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aritrabakshi&show_icons=true&theme=radical" alt="GitHub Stats" />
+    
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=aritrabakshi&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+  
+  <img src="https://streak-stats.demolab.com/?user=aritrabakshi&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -54,10 +56,9 @@
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aritrabakshi&theme=flat&no-frame=true&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=aritrabakshi&theme=radical&no-bg=true&no-frame=false&rank=SECRET,S,AAA,AA,A,B,C,UNKNOWN&row=1&column=6" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aritrabakshi&label=Profile%20views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aritrabakshi&label=Profile%20views&color=007acc&style=flat" alt="Profile Views" />
 </p>
-
