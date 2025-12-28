@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aritra Bakshi</h1>
-<h3 align="center">Physics Undergraduate | Frontend Developer | Computational Physicist</h3>
+<h3 align="center">Physics Undergraduate | Frontend Learner | Computational Physicist</h3>
 
 <p align="center">
 🔭 Building the <strong>Presidency University Physics Society</strong> web platform<br>
